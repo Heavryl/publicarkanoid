@@ -1,5 +1,69 @@
 ﻿  game.cpp
-game.obj : error LNK2019: unresolved external symbol __imp__drawTestBackground referenced in function "public: virtual bool __thiscall MyFramework::Tick(void)" (?Tick@MyFramework@@UAE_NXZ)
-game.obj : error LNK2019: unresolved external symbol __imp__run referenced in function _main
-C:\Users\phawr\source\repos\Arkanoid\2022_win64\FrameworkRelease_x64.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
-C:\Users\phawr\source\repos\Arkanoid\Debug\Arkanoid.exe : fatal error LNK1120: 2 unresolved externals
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(97,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(100,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(101,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(124,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(124,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(125,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(128,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(128,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(132,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(135,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(138,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(141,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(144,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(147,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(147,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(150,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(150,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(164,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(167,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(176,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(179,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(203,73): warning C4244: 'argument': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(203,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(219,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(224,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(235,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(274,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(290,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(302,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(315,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(316,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(321,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(321,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(330,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(330,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(355,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(356,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(374,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(375,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(380,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(381,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(390,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(391,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(392,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(405,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(413,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(431,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(439,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(481,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(482,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(489,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(490,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(494,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(495,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(499,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(500,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(510,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(511,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(515,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(516,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(520,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(521,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\game.cpp(527,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Arkanoid.vcxproj -> C:\Users\phawr\source\repos\Arkanoid\x64\Debug\Arkanoid.exe
