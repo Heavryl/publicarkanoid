@@ -1,0 +1,5 @@
+﻿  game.cpp
+game.obj : error LNK2019: unresolved external symbol __imp__drawTestBackground referenced in function "public: virtual bool __thiscall MyFramework::Tick(void)" (?Tick@MyFramework@@UAE_NXZ)
+game.obj : error LNK2019: unresolved external symbol __imp__run referenced in function _main
+C:\Users\phawr\source\repos\Arkanoid\2022_win64\FrameworkRelease_x64.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\phawr\source\repos\Arkanoid\Debug\Arkanoid.exe : fatal error LNK1120: 2 unresolved externals

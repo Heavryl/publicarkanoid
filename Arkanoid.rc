@@ -1,0 +1,195 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Polish (Poland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PLK)
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+#pragma code_page(1250)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "data\\01-Breakout-Tiles.png"
+
+IDB_PNG2                PNG                     "data\\02-Breakout-Tiles.png"
+
+IDB_PNG3                PNG                     "data\\03-Breakout-Tiles.png"
+
+IDB_PNG4                PNG                     "data\\04-Breakout-Tiles.png"
+
+IDB_PNG5                PNG                     "data\\05-Breakout-Tiles.png"
+
+IDB_PNG6                PNG                     "data\\06-Breakout-Tiles.png"
+
+IDB_PNG7                PNG                     "data\\07-Breakout-Tiles.png"
+
+IDB_PNG8                PNG                     "data\\08-Breakout-Tiles.png"
+
+IDB_PNG9                PNG                     "data\\09-Breakout-Tiles.png"
+
+IDB_PNG10               PNG                     "data\\10-Breakout-Tiles.png"
+
+IDB_PNG11               PNG                     "data\\11-Breakout-Tiles.png"
+
+IDB_PNG12               PNG                     "data\\12-Breakout-Tiles.png"
+
+IDB_PNG13               PNG                     "data\\13-Breakout-Tiles.png"
+
+IDB_PNG14               PNG                     "data\\14-Breakout-Tiles.png"
+
+IDB_PNG15               PNG                     "data\\15-Breakout-Tiles.png"
+
+IDB_PNG16               PNG                     "data\\16-Breakout-Tiles.png"
+
+IDB_PNG17               PNG                     "data\\17-Breakout-Tiles.png"
+
+IDB_PNG18               PNG                     "data\\18-Breakout-Tiles.png"
+
+IDB_PNG19               PNG                     "data\\19-Breakout-Tiles.png"
+
+IDB_PNG20               PNG                     "data\\20-Breakout-Tiles.png"
+
+IDB_PNG21               PNG                     "data\\21-Breakout-Tiles.png"
+
+IDB_PNG22               PNG                     "data\\22-Breakout-Tiles.png"
+
+IDB_PNG23               PNG                     "data\\23-Breakout-Tiles.png"
+
+IDB_PNG24               PNG                     "data\\24-Breakout-Tiles.png"
+
+IDB_PNG25               PNG                     "data\\25-Breakout-Tiles.png"
+
+IDB_PNG26               PNG                     "data\\26-Breakout-Tiles.png"
+
+IDB_PNG27               PNG                     "data\\27-Breakout-Tiles.png"
+
+IDB_PNG28               PNG                     "data\\28-Breakout-Tiles.png"
+
+IDB_PNG29               PNG                     "data\\29-Breakout-Tiles.png"
+
+IDB_PNG30               PNG                     "data\\30-Breakout-Tiles.png"
+
+IDB_PNG31               PNG                     "data\\31-Breakout-Tiles.png"
+
+IDB_PNG32               PNG                     "data\\32-Breakout-Tiles.png"
+
+IDB_PNG33               PNG                     "data\\33-Breakout-Tiles.png"
+
+IDB_PNG34               PNG                     "data\\34-Breakout-Tiles.png"
+
+IDB_PNG35               PNG                     "data\\35-Breakout-Tiles.png"
+
+IDB_PNG36               PNG                     "data\\36-Breakout-Tiles.png"
+
+IDB_PNG37               PNG                     "data\\37-Breakout-Tiles.png"
+
+IDB_PNG38               PNG                     "data\\38-Breakout-Tiles.png"
+
+IDB_PNG39               PNG                     "data\\39-Breakout-Tiles.png"
+
+IDB_PNG40               PNG                     "data\\40-Breakout-Tiles.png"
+
+IDB_PNG41               PNG                     "data\\41-Breakout-Tiles.png"
+
+IDB_PNG42               PNG                     "data\\42-Breakout-Tiles.png"
+
+IDB_PNG43               PNG                     "data\\43-Breakout-Tiles.png"
+
+IDB_PNG44               PNG                     "data\\44-Breakout-Tiles.png"
+
+IDB_PNG45               PNG                     "data\\45-Breakout-Tiles.png"
+
+IDB_PNG46               PNG                     "data\\46-Breakout-Tiles.png"
+
+IDB_PNG47               PNG                     "data\\47-Breakout-Tiles.png"
+
+IDB_PNG48               PNG                     "data\\48-Breakout-Tiles.png"
+
+IDB_PNG49               PNG                     "data\\49-Breakout-Tiles.png"
+
+IDB_PNG50               PNG                     "data\\50-Breakout-Tiles.png"
+
+IDB_PNG51               PNG                     "data\\51-Breakout-Tiles.png"
+
+IDB_PNG52               PNG                     "data\\52-Breakout-Tiles.png"
+
+IDB_PNG53               PNG                     "data\\53-Breakout-Tiles.png"
+
+IDB_PNG54               PNG                     "data\\54-Breakout-Tiles.png"
+
+IDB_PNG55               PNG                     "data\\55-Breakout-Tiles.png"
+
+IDB_PNG56               PNG                     "data\\56-Breakout-Tiles.png"
+
+IDB_PNG57               PNG                     "data\\57-Breakout-Tiles.png"
+
+IDB_PNG58               PNG                     "data\\58-Breakout-Tiles.png"
+
+IDB_PNG59               PNG                     "data\\59-Breakout-Tiles.png"
+
+IDB_PNG60               PNG                     "data\\60-Breakout-Tiles.png"
+
+IDB_PNG61               PNG                     "data\\61-Breakout-Tiles.png"
+
+IDB_PNG62               PNG                     "data\\62-Breakout-Tiles.png"
+
+IDB_PNG63               PNG                     "data\\63-Breakout-Tiles.png"
+
+IDB_PNG64               PNG                     "data\\64-Breakout-Tiles.png"
+
+#endif    // Polish (Poland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
